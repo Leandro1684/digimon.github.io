@@ -1,0 +1,61 @@
+body{
+    background-image: url("Fondo.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+
+#inicio {
+    text-align: center;
+}
+
+#imagen {
+    margin: 0 auto;
+}
+
+#imagen1 {
+    margin-top: 20px;
+    width: 330px;
+    height: auto;
+}
+
+#scroll{
+    margin: 2rem auto;
+    border: 1px solid #8fe6ed;
+    height: 450px;
+    width: 88%;
+    max-width: 1000px;
+    background: #f1f2f3;
+    opacity: 85%;
+    overflow:auto;
+    box-sizing: border-box;
+    padding:0 1rem;
+       
+}
+
+#scroll1{
+    height: 25px; 
+    
+}
+
+
+#cardDigi{
+    text-align: center;
+}
+
+.card {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    opacity: 90%;
+}
+
+#tabla img {
+    width: 50px;
+    height: auto;
+}
+
+
